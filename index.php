@@ -12,6 +12,9 @@
     <![endif]-->
   </head>
   <body>
+<!-- Topnav -->
+<?php include 'topnav.php';?> 
+<!-- End Top navigation -->   
     <div class="container">
     <h1><span class="glyphicon glyphicon-star"></span> Bootstrap 3.3.6</h1>
     </div>
